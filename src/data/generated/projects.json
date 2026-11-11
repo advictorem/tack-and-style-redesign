@@ -1,0 +1,535 @@
+{
+ "dining-room": {
+  "slug": "dining-room",
+  "sourceTitle": "Dining Room",
+  "intro": "Good design sets the table but it’s the shared moments that make it unforgettable.",
+  "quote": "Utility that doesn’t compromise style.",
+  "gallery": [
+   {
+    "src": "/images/project-dining-room/interiordesign3-5-2025-120.jpg",
+    "w": 1500,
+    "h": 998
+   },
+   {
+    "src": "/images/project-dining-room/interiordesign3-5-2025-008.jpg",
+    "w": 1500,
+    "h": 998
+   },
+   {
+    "src": "/images/project-dining-room/interiordesign3-5-2025-011.jpg",
+    "w": 1500,
+    "h": 998
+   },
+   {
+    "src": "/images/project-dining-room/interiordesign3-5-2025-116.jpg",
+    "w": 1500,
+    "h": 998
+   },
+   {
+    "src": "/images/home/footer-image.jpg",
+    "w": 2000,
+    "h": 1026
+   }
+  ]
+ },
+ "entry": {
+  "slug": "entry",
+  "sourceTitle": "Entryway",
+  "intro": "Whether it's a floral wallpaper moment or custom paneling with a vintage bench, we turn pass-throughs into purposeful, unforgettable spaces.",
+  "quote": "Even the in-between spaces tell a story, let’s make sure it’s yours.",
+  "gallery": [
+   {
+    "src": "/images/project-entry/interiordesign3-5-2025-101.jpg",
+    "w": 1500,
+    "h": 998
+   },
+   {
+    "src": "/images/project-entry/interiordesign3-5-2025-098.jpg",
+    "w": 1400,
+    "h": 931
+   },
+   {
+    "src": "/images/projects/interiordesign3-5-2025-053.jpg",
+    "w": 2000,
+    "h": 1330
+   },
+   {
+    "src": "/images/project-entry/interiordesign3-5-2025-025.jpg",
+    "w": 2000,
+    "h": 1330
+   },
+   {
+    "src": "/images/project-entry/interiordesign3-5-2025-099.jpg",
+    "w": 2000,
+    "h": 1330
+   },
+   {
+    "src": "/images/project-entry/interiordesign3-5-2025-069.jpg",
+    "w": 2000,
+    "h": 1330
+   },
+   {
+    "src": "/images/home/footer-image.jpg",
+    "w": 2000,
+    "h": 1026
+   }
+  ]
+ },
+ "garage": {
+  "slug": "garage",
+  "sourceTitle": "Garage",
+  "intro": "Whether it’s organizing chaos or carving out a workshop zone, we turn overlooked spaces into streamlined, hardworking extensions of your home.",
+  "quote": "Utility that doesn’t compromise style.",
+  "gallery": [
+   {
+    "src": "/images/home/img-7395.jpg",
+    "w": 1400,
+    "h": 1050
+   },
+   {
+    "src": "/images/home/footer-image.jpg",
+    "w": 2000,
+    "h": 1026
+   }
+  ]
+ },
+ "hallway": {
+  "slug": "hallway",
+  "sourceTitle": "Hallway",
+  "intro": "The quiet connector. The backdrop of mornings, hellos, and racing feet, worth every inch of intention.",
+  "quote": "Even the in-between spaces tell a story, let’s make sure it’s yours.",
+  "gallery": [
+   {
+    "src": "/images/projects/interiordesign3-5-2025-083.jpg",
+    "w": 1400,
+    "h": 931
+   },
+   {
+    "src": "/images/project-hallway/interiordesign3-5-2025-026.jpg",
+    "w": 1500,
+    "h": 998
+   },
+   {
+    "src": "/images/blog-pencil-trim/interiordesign3-5-2025-082.jpg",
+    "w": 1400,
+    "h": 931
+   },
+   {
+    "src": "/images/project-hallway/interiordesign3-5-2025-088.jpg",
+    "w": 2000,
+    "h": 1330
+   },
+   {
+    "src": "/images/home/footer-image.jpg",
+    "w": 2000,
+    "h": 1026
+   }
+  ]
+ },
+ "kids-bedroom": {
+  "slug": "kids-bedroom",
+  "sourceTitle": "Kids Bedroom",
+  "intro": "Canopy beds, chalkboard walls, or vintage quilts this is where imagination meets thoughtful design.",
+  "quote": "Whimsy, warmth, and just enough wild, it’s their world, but still part of your home.",
+  "gallery": [
+   {
+    "src": "/images/project-kids-bedroom/interiordesign3-5-2025-040.jpg",
+    "w": 1400,
+    "h": 931
+   },
+   {
+    "src": "/images/project-kids-bedroom/interiordesign3-5-2025-087.jpg",
+    "w": 2000,
+    "h": 1330
+   },
+   {
+    "src": "/images/project-kids-bedroom/interiordesign3-5-2025-037-1.jpg",
+    "w": 1500,
+    "h": 2255
+   },
+   {
+    "src": "/images/project-kids-bedroom/interiordesign3-5-2025-085.jpg",
+    "w": 2000,
+    "h": 1330
+   },
+   {
+    "src": "/images/project-kids-bedroom/interiordesign3-5-2025-038.jpg",
+    "w": 2000,
+    "h": 1330
+   },
+   {
+    "src": "/images/project-kids-bedroom/interiordesign3-5-2025-095.jpg",
+    "w": 1400,
+    "h": 931
+   },
+   {
+    "src": "/images/project-kids-bedroom/interiordesign3-5-2025-094.jpg",
+    "w": 2000,
+    "h": 1330
+   },
+   {
+    "src": "/images/project-kids-bedroom/interiordesign3-5-2025-097.jpg",
+    "w": 2000,
+    "h": 1330
+   },
+   {
+    "src": "/images/project-kids-bedroom/interiordesign3-5-2025-050.jpg",
+    "w": 2000,
+    "h": 1331
+   },
+   {
+    "src": "/images/project-kids-bedroom/interiordesign3-5-2025-051.jpg",
+    "w": 1600,
+    "h": 2400
+   },
+   {
+    "src": "/images/project-kids-bedroom/interiordesign3-5-2025-048.jpg",
+    "w": 2000,
+    "h": 1330
+   },
+   {
+    "src": "/images/project-kids-bedroom/interiordesign3-5-2025-096.jpg",
+    "w": 2000,
+    "h": 1330
+   },
+   {
+    "src": "/images/project-kids-bedroom/interiordesign3-5-2025-091.jpg",
+    "w": 2000,
+    "h": 1330
+   },
+   {
+    "src": "/images/projects/interiordesign3-5-2025-045.jpg",
+    "w": 1400,
+    "h": 932
+   },
+   {
+    "src": "/images/project-kids-bedroom/interiordesign3-5-2025-093.jpg",
+    "w": 2000,
+    "h": 1330
+   },
+   {
+    "src": "/images/project-kids-bedroom/interiordesign3-5-2025-092.jpg",
+    "w": 2000,
+    "h": 1330
+   },
+   {
+    "src": "/images/project-kids-bedroom/interiordesign3-5-2025-067.jpg",
+    "w": 2000,
+    "h": 1330
+   },
+   {
+    "src": "/images/project-kids-bedroom/interiordesign3-5-2025-062-copy.jpg",
+    "w": 2000,
+    "h": 1330
+   },
+   {
+    "src": "/images/project-kids-bedroom/interiordesign3-5-2025-066.jpg",
+    "w": 2000,
+    "h": 1330
+   },
+   {
+    "src": "/images/project-kids-bedroom/interiordesign3-5-2025-068.jpg",
+    "w": 2000,
+    "h": 1330
+   },
+   {
+    "src": "/images/project-kids-bedroom/interiordesign3-5-2025-063-copy.jpg",
+    "w": 2000,
+    "h": 1330
+   },
+   {
+    "src": "/images/home/footer-image.jpg",
+    "w": 2000,
+    "h": 1026
+   }
+  ]
+ },
+ "kitchen": {
+  "slug": "kitchen",
+  "sourceTitle": "Kitchen",
+  "intro": "From bold shaker cabinets with premium hardware to reclaimed wood beams and textured wallpaper, our kitchen design approach blends classic charm with modern utility. We tailor every detail to how you cook, gather, and actually live.",
+  "quote": "The kitchen is the heart of the home where big dreams and bold design live together.",
+  "gallery": [
+   {
+    "src": "/images/services/interiordesign3-5-2025-112.jpg",
+    "w": 1400,
+    "h": 931
+   },
+   {
+    "src": "/images/project-kitchen/interiordesign3-5-2025-110.jpg",
+    "w": 1400,
+    "h": 931
+   },
+   {
+    "src": "/images/project-kitchen/interiordesign3-5-2025-109.jpg",
+    "w": 1400,
+    "h": 931
+   },
+   {
+    "src": "/images/project-kitchen/interiordesign3-5-2025-013.jpg",
+    "w": 1400,
+    "h": 931
+   },
+   {
+    "src": "/images/services/interiordesign3-5-2025-020.jpg",
+    "w": 1500,
+    "h": 998
+   },
+   {
+    "src": "/images/project-kitchen/interiordesign3-5-2025-108.jpg",
+    "w": 1500,
+    "h": 998
+   },
+   {
+    "src": "/images/project-kitchen/interiordesign3-5-2025-016.jpg",
+    "w": 1597,
+    "h": 2400
+   },
+   {
+    "src": "/images/project-kitchen/interiordesign3-5-2025-023.jpg",
+    "w": 1597,
+    "h": 2400
+   },
+   {
+    "src": "/images/project-kitchen/interiordesign3-5-2025-113.jpg",
+    "w": 2000,
+    "h": 1330
+   },
+   {
+    "src": "/images/project-kitchen/interiordesign3-5-2025-111.jpg",
+    "w": 2000,
+    "h": 1330
+   },
+   {
+    "src": "/images/home/footer-image.jpg",
+    "w": 2000,
+    "h": 1026
+   }
+  ]
+ },
+ "living-room": {
+  "slug": "living-room",
+  "sourceTitle": "Living Room",
+  "intro": "Stone fireplaces, slipcovered sofas, and collected finds create a warm, layered aesthetic.",
+  "quote": "Built for movie nights and conversations that last longer than the wine.",
+  "gallery": [
+   {
+    "src": "/images/project-living-room/interiordesign3-5-2025-107.jpg",
+    "w": 1400,
+    "h": 931
+   },
+   {
+    "src": "/images/projects/interiordesign3-5-2025-102.jpg",
+    "w": 1400,
+    "h": 931
+   },
+   {
+    "src": "/images/home/interiordesign3-5-2025-106.jpg",
+    "w": 1500,
+    "h": 998
+   },
+   {
+    "src": "/images/project-living-room/interiordesign3-5-2025-104.jpg",
+    "w": 1400,
+    "h": 931
+   },
+   {
+    "src": "/images/project-living-room/interiordesign3-5-2025-005.jpg",
+    "w": 2000,
+    "h": 1330
+   },
+   {
+    "src": "/images/project-living-room/interiordesign3-5-2025-103.jpg",
+    "w": 2000,
+    "h": 1330
+   },
+   {
+    "src": "/images/home/footer-image.jpg",
+    "w": 2000,
+    "h": 1026
+   }
+  ]
+ },
+ "master-bathroom": {
+  "slug": "master-bathroom",
+  "sourceTitle": "Bathroom",
+  "intro": "We treat bathrooms like mini sanctuaries layering in pencil tile trim with unlacquered brass to create quiet, character-filled spaces. Whether it’s a powder room punch or a spa-worthy primary bath, we design it to feel both elevated and essential.",
+  "quote": "Because even your morning chaos deserves a moment of calm, a little beauty, and a whole lot of function.",
+  "gallery": [
+   {
+    "src": "/images/project-master-bathroom/interiordesign3-5-2025-031.jpg",
+    "w": 1400,
+    "h": 2104
+   },
+   {
+    "src": "/images/project-master-bathroom/interiordesign3-5-2025-075.jpg",
+    "w": 1500,
+    "h": 998
+   },
+   {
+    "src": "/images/projects/interiordesign3-5-2025-155.jpg",
+    "w": 1400,
+    "h": 932
+   },
+   {
+    "src": "/images/project-master-bathroom/interiordesign3-5-2025-074.jpg",
+    "w": 1500,
+    "h": 998
+   },
+   {
+    "src": "/images/project-master-bathroom/interiordesign3-5-2025-027.jpg",
+    "w": 1400,
+    "h": 2104
+   },
+   {
+    "src": "/images/project-master-bathroom/interiordesign3-5-2025-031.jpg",
+    "w": 1597,
+    "h": 2400
+   },
+   {
+    "src": "/images/project-master-bathroom/interiordesign3-5-2025-073.jpg",
+    "w": 2000,
+    "h": 1330
+   },
+   {
+    "src": "/images/home/footer-image.jpg",
+    "w": 2000,
+    "h": 1026
+   }
+  ]
+ },
+ "master-bedroom": {
+  "slug": "master-bedroom",
+  "sourceTitle": "Master Bedroom",
+  "intro": "Our bedroom remodels are all about balance, soft textures, soulful color, and just the right amount of drama. We mix classic silhouettes with layered textiles, moody lighting, and statement walls to create a space that feels personal, grounded, and timeless.",
+  "quote": "It’s not just where the day ends it’s where you reconnect, recharge, and remember who you are.",
+  "gallery": [
+   {
+    "src": "/images/projects/hdr-2375-hdr-edit.jpg",
+    "w": 1400,
+    "h": 931
+   },
+   {
+    "src": "/images/project-master-bedroom/interiordesign3-5-2025-077.jpg",
+    "w": 1400,
+    "h": 932
+   },
+   {
+    "src": "/images/project-master-bedroom/interiordesign3-5-2025-070.jpg",
+    "w": 2000,
+    "h": 1330
+   },
+   {
+    "src": "/images/project-master-bedroom/hdr-2395-hdr-edit.jpg",
+    "w": 2000,
+    "h": 1331
+   },
+   {
+    "src": "/images/project-master-bedroom/interiordesign3-5-2025-078.jpg",
+    "w": 2000,
+    "h": 1330
+   },
+   {
+    "src": "/images/home/footer-image.jpg",
+    "w": 2000,
+    "h": 1026
+   }
+  ]
+ },
+ "office": {
+  "slug": "office",
+  "sourceTitle": "Office",
+  "intro": "We design offices that feel personal because productivity looks better with a little soul.",
+  "quote": "Utility that doesn’t compromise style.",
+  "gallery": [
+   {
+    "src": "/images/project-office/interiordesign3-5-2025-133-1.jpg",
+    "w": 1500,
+    "h": 998
+   },
+   {
+    "src": "/images/project-office/interiordesign3-5-2025-142.jpg",
+    "w": 1500,
+    "h": 998
+   },
+   {
+    "src": "/images/project-office/interiordesign3-5-2025-139-1.jpg",
+    "w": 1500,
+    "h": 998
+   },
+   {
+    "src": "/images/project-office/interiordesign3-5-2025-143.jpg",
+    "w": 2000,
+    "h": 1330
+   },
+   {
+    "src": "/images/project-office/interiordesign3-5-2025-134.jpg",
+    "w": 2000,
+    "h": 1434
+   },
+   {
+    "src": "/images/home/footer-image.jpg",
+    "w": 2000,
+    "h": 1026
+   }
+  ]
+ },
+ "sitting-room": {
+  "slug": "sitting-room",
+  "sourceTitle": "Formal Living Room",
+  "intro": "We approach formal living rooms with a mix of polish and personality—curated pieces, layered textures, and layout choices that invite conversation.",
+  "quote": "Sophisticated doesn’t have to mean stiff.",
+  "gallery": [
+   {
+    "src": "/images/project-sitting-room/interiordesign3-5-2025-128.jpg",
+    "w": 1500,
+    "h": 998
+   },
+   {
+    "src": "/images/blog-closed-concept/interiordesign3-5-2025-006.jpg",
+    "w": 1400,
+    "h": 931
+   },
+   {
+    "src": "/images/project-sitting-room/interiordesign3-5-2025-055.jpg",
+    "w": 1500,
+    "h": 2255
+   },
+   {
+    "src": "/images/project-sitting-room/interiordesign3-5-2025-124.jpg",
+    "w": 1500,
+    "h": 998
+   },
+   {
+    "src": "/images/project-sitting-room/interiordesign3-5-2025-057.jpg",
+    "w": 1500,
+    "h": 998
+   },
+   {
+    "src": "/images/project-sitting-room/interiordesign3-5-2025-130.jpg",
+    "w": 1500,
+    "h": 998
+   },
+   {
+    "src": "/images/project-sitting-room/interiordesign3-5-2025-056.jpg",
+    "w": 1597,
+    "h": 2400
+   },
+   {
+    "src": "/images/project-sitting-room/interiordesign3-5-2025-007.jpg",
+    "w": 2000,
+    "h": 1330
+   },
+   {
+    "src": "/images/project-sitting-room/interiordesign3-5-2025-127.jpg",
+    "w": 2000,
+    "h": 1330
+   },
+   {
+    "src": "/images/home/footer-image.jpg",
+    "w": 2000,
+    "h": 1026
+   }
+  ]
+ }
+}

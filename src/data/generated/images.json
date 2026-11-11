@@ -1,0 +1,682 @@
+{
+ "home/home-bg": {
+  "src": "/images/home/home-bg.jpg",
+  "w": 1920,
+  "h": 1452
+ },
+ "home/pattern-color": {
+  "src": "/images/home/pattern-color.png",
+  "w": 1600,
+  "h": 64
+ },
+ "home/interiordesign3-5-2025-106": {
+  "src": "/images/home/interiordesign3-5-2025-106.jpg",
+  "w": 1500,
+  "h": 998
+ },
+ "home/tackandstyle-interior-living-room-blue-drapes": {
+  "src": "/images/home/tackandstyle-interior-living-room-blue-drapes.jpg",
+  "w": 1900,
+  "h": 2310
+ },
+ "home/blue-fabric": {
+  "src": "/images/home/blue-fabric.jpg",
+  "w": 1900,
+  "h": 2310
+ },
+ "home/evan-signature-4x": {
+  "src": "/images/home/evan-signature-4x.png",
+  "w": 1600,
+  "h": 670
+ },
+ "home/pattern-white": {
+  "src": "/images/home/pattern-white.png",
+  "w": 1600,
+  "h": 64
+ },
+ "home/consultation": {
+  "src": "/images/home/consultation.png",
+  "w": 267,
+  "h": 251
+ },
+ "home/renderings": {
+  "src": "/images/home/renderings.png",
+  "w": 267,
+  "h": 251
+ },
+ "home/renovation": {
+  "src": "/images/home/renovation.png",
+  "w": 643,
+  "h": 601
+ },
+ "home/personalized": {
+  "src": "/images/home/personalized.png",
+  "w": 650,
+  "h": 584
+ },
+ "home/olive-bg-white-4x": {
+  "src": "/images/home/olive-bg-white-4x.png",
+  "w": 1600,
+  "h": 800
+ },
+ "home/thrifting-store-antique": {
+  "src": "/images/home/thrifting-store-antique.jpg",
+  "w": 2000,
+  "h": 1500
+ },
+ "home/before-after": {
+  "src": "/images/home/before-after.jpg",
+  "w": 1900,
+  "h": 1694
+ },
+ "home/img-7395": {
+  "src": "/images/home/img-7395.jpg",
+  "w": 1400,
+  "h": 1050
+ },
+ "home/1749230924661-image-asset": {
+  "src": "/images/home/1749230924661-image-asset.jpg",
+  "w": 1440,
+  "h": 1080
+ },
+ "home/1749230925904-image-asset": {
+  "src": "/images/home/1749230925904-image-asset.jpg",
+  "w": 956,
+  "h": 708
+ },
+ "home/1749230926931-image-asset": {
+  "src": "/images/home/1749230926931-image-asset.jpg",
+  "w": 1440,
+  "h": 1211
+ },
+ "home/1749230928080-image-asset": {
+  "src": "/images/home/1749230928080-image-asset.jpg",
+  "w": 1350,
+  "h": 2400
+ },
+ "home/1749230929453-image-asset": {
+  "src": "/images/home/1749230929453-image-asset.jpg",
+  "w": 1440,
+  "h": 1440
+ },
+ "home/1749230930378-image-asset": {
+  "src": "/images/home/1749230930378-image-asset.jpg",
+  "w": 410,
+  "h": 308
+ },
+ "home/1749230931322-image-asset": {
+  "src": "/images/home/1749230931322-image-asset.jpg",
+  "w": 1440,
+  "h": 1440
+ },
+ "home/footer-image": {
+  "src": "/images/home/footer-image.jpg",
+  "w": 2000,
+  "h": 1026
+ },
+ "home/t-s-frame-logo-white-4x": {
+  "src": "/images/home/t-s-frame-logo-white-4x.png",
+  "w": 1600,
+  "h": 905
+ },
+ "about/evan-designer-kitchen": {
+  "src": "/images/about/evan-designer-kitchen.jpg",
+  "w": 1920,
+  "h": 1061
+ },
+ "about/pattern": {
+  "src": "/images/about/pattern.jpg",
+  "w": 1920,
+  "h": 63
+ },
+ "about/desk": {
+  "src": "/images/about/desk.jpg",
+  "w": 1200,
+  "h": 1850
+ },
+ "about/evan-designer-stairs": {
+  "src": "/images/about/evan-designer-stairs.jpg",
+  "w": 1180,
+  "h": 1774
+ },
+ "about/individuality-4x": {
+  "src": "/images/about/individuality-4x.png",
+  "w": 949,
+  "h": 1600
+ },
+ "about/craft-4x": {
+  "src": "/images/about/craft-4x.png",
+  "w": 949,
+  "h": 1600
+ },
+ "about/elevated-4x": {
+  "src": "/images/about/elevated-4x.png",
+  "w": 949,
+  "h": 1600
+ },
+ "about/about-evan-sheehan": {
+  "src": "/images/about/about-evan-sheehan.png",
+  "w": 800,
+  "h": 1209
+ },
+ "about/mom-path": {
+  "src": "/images/about/mom-path.jpg",
+  "w": 1800,
+  "h": 2400
+ },
+ "services/interiordesign3-5-2025-112": {
+  "src": "/images/services/interiordesign3-5-2025-112.jpg",
+  "w": 1400,
+  "h": 931
+ },
+ "services/design-planning": {
+  "src": "/images/services/design-planning.jpg",
+  "w": 1333,
+  "h": 2000
+ },
+ "services/horse-lamp": {
+  "src": "/images/services/horse-lamp.png",
+  "w": 766,
+  "h": 1337
+ },
+ "services/design-renderings": {
+  "src": "/images/services/design-renderings.jpg",
+  "w": 1780,
+  "h": 1498
+ },
+ "services/chesterfield": {
+  "src": "/images/services/chesterfield.png",
+  "w": 600,
+  "h": 420
+ },
+ "services/furniture-4x": {
+  "src": "/images/services/furniture-4x.png",
+  "w": 1157,
+  "h": 772
+ },
+ "services/rennovation-4x": {
+  "src": "/images/services/rennovation-4x.png",
+  "w": 881,
+  "h": 712
+ },
+ "services/interiordesign3-5-2025-020": {
+  "src": "/images/services/interiordesign3-5-2025-020.jpg",
+  "w": 1500,
+  "h": 998
+ },
+ "contact/horse-jump": {
+  "src": "/images/contact/horse-jump.jpg",
+  "w": 630,
+  "h": 508
+ },
+ "contact/phone-4x": {
+  "src": "/images/contact/phone-4x.png",
+  "w": 60,
+  "h": 59
+ },
+ "contact/email-4x": {
+  "src": "/images/contact/email-4x.png",
+  "w": 60,
+  "h": 46
+ },
+ "contact/instagram-4x": {
+  "src": "/images/contact/instagram-4x.png",
+  "w": 62,
+  "h": 62
+ },
+ "blog/background-horse-ropes": {
+  "src": "/images/blog/background-horse-ropes.jpg",
+  "w": 2000,
+  "h": 1026
+ },
+ "blog/image-46": {
+  "src": "/images/blog/image-46.jpg",
+  "w": 2000,
+  "h": 1499
+ },
+ "blog/image-47": {
+  "src": "/images/blog/image-47.jpg",
+  "w": 1400,
+  "h": 1050
+ },
+ "blog/image-48": {
+  "src": "/images/blog/image-48.jpg",
+  "w": 1899,
+  "h": 1425
+ },
+ "blog/image-49": {
+  "src": "/images/blog/image-49.jpg",
+  "w": 2000,
+  "h": 1500
+ },
+ "blog-thrifting/thrifting-store-antique": {
+  "src": "/images/blog-thrifting/thrifting-store-antique.jpg",
+  "w": 2000,
+  "h": 1500
+ },
+ "blog-thrifting/picture-frame": {
+  "src": "/images/blog-thrifting/picture-frame.jpg",
+  "w": 1136,
+  "h": 757
+ },
+ "blog-thrifting/evan-portrait-small": {
+  "src": "/images/blog-thrifting/evan-portrait-small.png",
+  "w": 200,
+  "h": 200
+ },
+ "blog-thrifting/evan-sheehan": {
+  "src": "/images/blog-thrifting/evan-sheehan.jpg",
+  "w": 600,
+  "h": 600
+ },
+ "blog-pencil-trim/interiordesign3-5-2025-082": {
+  "src": "/images/blog-pencil-trim/interiordesign3-5-2025-082.jpg",
+  "w": 1400,
+  "h": 931
+ },
+ "blog-pencil-trim/wainscot-wall-trim": {
+  "src": "/images/blog-pencil-trim/wainscot-wall-trim.jpg",
+  "w": 1579,
+  "h": 2123
+ },
+ "blog-garage/tack-style-before-garage": {
+  "src": "/images/blog-garage/tack-style-before-garage.jpg",
+  "w": 1800,
+  "h": 1197
+ },
+ "blog-garage/tack-style-after-garage": {
+  "src": "/images/blog-garage/tack-style-after-garage.jpg",
+  "w": 1800,
+  "h": 1197
+ },
+ "blog-closed-concept/interiordesign3-5-2025-006": {
+  "src": "/images/blog-closed-concept/interiordesign3-5-2025-006.jpg",
+  "w": 1400,
+  "h": 931
+ },
+ "blog-closed-concept/closed-room-concept": {
+  "src": "/images/blog-closed-concept/closed-room-concept.jpg",
+  "w": 1886,
+  "h": 2400
+ },
+ "projects/hdr-2375-hdr-edit": {
+  "src": "/images/projects/hdr-2375-hdr-edit.jpg",
+  "w": 1400,
+  "h": 931
+ },
+ "projects/interiordesign3-5-2025-102": {
+  "src": "/images/projects/interiordesign3-5-2025-102.jpg",
+  "w": 1400,
+  "h": 931
+ },
+ "projects/interiordesign3-5-2025-008": {
+  "src": "/images/projects/interiordesign3-5-2025-008.jpg",
+  "w": 1500,
+  "h": 998
+ },
+ "projects/interiordesign3-5-2025-155": {
+  "src": "/images/projects/interiordesign3-5-2025-155.jpg",
+  "w": 1400,
+  "h": 932
+ },
+ "projects/interiordesign3-5-2025-045": {
+  "src": "/images/projects/interiordesign3-5-2025-045.jpg",
+  "w": 1400,
+  "h": 932
+ },
+ "projects/interiordesign3-5-2025-053": {
+  "src": "/images/projects/interiordesign3-5-2025-053.jpg",
+  "w": 2000,
+  "h": 1330
+ },
+ "projects/interiordesign3-5-2025-083": {
+  "src": "/images/projects/interiordesign3-5-2025-083.jpg",
+  "w": 1400,
+  "h": 931
+ },
+ "projects/interiordesign3-5-2025-133-1": {
+  "src": "/images/projects/interiordesign3-5-2025-133-1.jpg",
+  "w": 1500,
+  "h": 998
+ },
+ "project-entry/interiordesign3-5-2025-101": {
+  "src": "/images/project-entry/interiordesign3-5-2025-101.jpg",
+  "w": 1500,
+  "h": 998
+ },
+ "project-entry/interiordesign3-5-2025-098": {
+  "src": "/images/project-entry/interiordesign3-5-2025-098.jpg",
+  "w": 1400,
+  "h": 931
+ },
+ "project-entry/interiordesign3-5-2025-025": {
+  "src": "/images/project-entry/interiordesign3-5-2025-025.jpg",
+  "w": 2000,
+  "h": 1330
+ },
+ "project-entry/interiordesign3-5-2025-099": {
+  "src": "/images/project-entry/interiordesign3-5-2025-099.jpg",
+  "w": 2000,
+  "h": 1330
+ },
+ "project-entry/interiordesign3-5-2025-069": {
+  "src": "/images/project-entry/interiordesign3-5-2025-069.jpg",
+  "w": 2000,
+  "h": 1330
+ },
+ "project-living-room/interiordesign3-5-2025-107": {
+  "src": "/images/project-living-room/interiordesign3-5-2025-107.jpg",
+  "w": 1400,
+  "h": 931
+ },
+ "project-living-room/interiordesign3-5-2025-104": {
+  "src": "/images/project-living-room/interiordesign3-5-2025-104.jpg",
+  "w": 1400,
+  "h": 931
+ },
+ "project-living-room/interiordesign3-5-2025-005": {
+  "src": "/images/project-living-room/interiordesign3-5-2025-005.jpg",
+  "w": 2000,
+  "h": 1330
+ },
+ "project-living-room/interiordesign3-5-2025-103": {
+  "src": "/images/project-living-room/interiordesign3-5-2025-103.jpg",
+  "w": 2000,
+  "h": 1330
+ },
+ "project-office/interiordesign3-5-2025-133-1": {
+  "src": "/images/project-office/interiordesign3-5-2025-133-1.jpg",
+  "w": 1500,
+  "h": 998
+ },
+ "project-office/interiordesign3-5-2025-142": {
+  "src": "/images/project-office/interiordesign3-5-2025-142.jpg",
+  "w": 1500,
+  "h": 998
+ },
+ "project-office/interiordesign3-5-2025-139-1": {
+  "src": "/images/project-office/interiordesign3-5-2025-139-1.jpg",
+  "w": 1500,
+  "h": 998
+ },
+ "project-office/interiordesign3-5-2025-143": {
+  "src": "/images/project-office/interiordesign3-5-2025-143.jpg",
+  "w": 2000,
+  "h": 1330
+ },
+ "project-office/interiordesign3-5-2025-134": {
+  "src": "/images/project-office/interiordesign3-5-2025-134.jpg",
+  "w": 2000,
+  "h": 1434
+ },
+ "project-kids-bedroom/interiordesign3-5-2025-040": {
+  "src": "/images/project-kids-bedroom/interiordesign3-5-2025-040.jpg",
+  "w": 1400,
+  "h": 931
+ },
+ "project-kids-bedroom/interiordesign3-5-2025-087": {
+  "src": "/images/project-kids-bedroom/interiordesign3-5-2025-087.jpg",
+  "w": 2000,
+  "h": 1330
+ },
+ "project-kids-bedroom/interiordesign3-5-2025-037-1": {
+  "src": "/images/project-kids-bedroom/interiordesign3-5-2025-037-1.jpg",
+  "w": 1500,
+  "h": 2255
+ },
+ "project-kids-bedroom/interiordesign3-5-2025-085": {
+  "src": "/images/project-kids-bedroom/interiordesign3-5-2025-085.jpg",
+  "w": 2000,
+  "h": 1330
+ },
+ "project-kids-bedroom/interiordesign3-5-2025-038": {
+  "src": "/images/project-kids-bedroom/interiordesign3-5-2025-038.jpg",
+  "w": 2000,
+  "h": 1330
+ },
+ "project-kids-bedroom/interiordesign3-5-2025-095": {
+  "src": "/images/project-kids-bedroom/interiordesign3-5-2025-095.jpg",
+  "w": 1400,
+  "h": 931
+ },
+ "project-kids-bedroom/interiordesign3-5-2025-094": {
+  "src": "/images/project-kids-bedroom/interiordesign3-5-2025-094.jpg",
+  "w": 2000,
+  "h": 1330
+ },
+ "project-kids-bedroom/interiordesign3-5-2025-097": {
+  "src": "/images/project-kids-bedroom/interiordesign3-5-2025-097.jpg",
+  "w": 2000,
+  "h": 1330
+ },
+ "project-kids-bedroom/interiordesign3-5-2025-050": {
+  "src": "/images/project-kids-bedroom/interiordesign3-5-2025-050.jpg",
+  "w": 2000,
+  "h": 1331
+ },
+ "project-kids-bedroom/interiordesign3-5-2025-051": {
+  "src": "/images/project-kids-bedroom/interiordesign3-5-2025-051.jpg",
+  "w": 1600,
+  "h": 2400
+ },
+ "project-kids-bedroom/interiordesign3-5-2025-048": {
+  "src": "/images/project-kids-bedroom/interiordesign3-5-2025-048.jpg",
+  "w": 2000,
+  "h": 1330
+ },
+ "project-kids-bedroom/interiordesign3-5-2025-096": {
+  "src": "/images/project-kids-bedroom/interiordesign3-5-2025-096.jpg",
+  "w": 2000,
+  "h": 1330
+ },
+ "project-kids-bedroom/interiordesign3-5-2025-091": {
+  "src": "/images/project-kids-bedroom/interiordesign3-5-2025-091.jpg",
+  "w": 2000,
+  "h": 1330
+ },
+ "project-kids-bedroom/interiordesign3-5-2025-093": {
+  "src": "/images/project-kids-bedroom/interiordesign3-5-2025-093.jpg",
+  "w": 2000,
+  "h": 1330
+ },
+ "project-kids-bedroom/interiordesign3-5-2025-092": {
+  "src": "/images/project-kids-bedroom/interiordesign3-5-2025-092.jpg",
+  "w": 2000,
+  "h": 1330
+ },
+ "project-kids-bedroom/interiordesign3-5-2025-067": {
+  "src": "/images/project-kids-bedroom/interiordesign3-5-2025-067.jpg",
+  "w": 2000,
+  "h": 1330
+ },
+ "project-kids-bedroom/interiordesign3-5-2025-062-copy": {
+  "src": "/images/project-kids-bedroom/interiordesign3-5-2025-062-copy.jpg",
+  "w": 2000,
+  "h": 1330
+ },
+ "project-kids-bedroom/interiordesign3-5-2025-066": {
+  "src": "/images/project-kids-bedroom/interiordesign3-5-2025-066.jpg",
+  "w": 2000,
+  "h": 1330
+ },
+ "project-kids-bedroom/interiordesign3-5-2025-068": {
+  "src": "/images/project-kids-bedroom/interiordesign3-5-2025-068.jpg",
+  "w": 2000,
+  "h": 1330
+ },
+ "project-kids-bedroom/interiordesign3-5-2025-063-copy": {
+  "src": "/images/project-kids-bedroom/interiordesign3-5-2025-063-copy.jpg",
+  "w": 2000,
+  "h": 1330
+ },
+ "project-master-bathroom/interiordesign3-5-2025-031": {
+  "src": "/images/project-master-bathroom/interiordesign3-5-2025-031.jpg",
+  "w": 1597,
+  "h": 2400
+ },
+ "project-master-bathroom/interiordesign3-5-2025-075": {
+  "src": "/images/project-master-bathroom/interiordesign3-5-2025-075.jpg",
+  "w": 1500,
+  "h": 998
+ },
+ "project-master-bathroom/interiordesign3-5-2025-074": {
+  "src": "/images/project-master-bathroom/interiordesign3-5-2025-074.jpg",
+  "w": 1500,
+  "h": 998
+ },
+ "project-master-bathroom/interiordesign3-5-2025-027": {
+  "src": "/images/project-master-bathroom/interiordesign3-5-2025-027.jpg",
+  "w": 1400,
+  "h": 2104
+ },
+ "project-master-bathroom/interiordesign3-5-2025-073": {
+  "src": "/images/project-master-bathroom/interiordesign3-5-2025-073.jpg",
+  "w": 2000,
+  "h": 1330
+ },
+ "project-dining-room/interiordesign3-5-2025-120": {
+  "src": "/images/project-dining-room/interiordesign3-5-2025-120.jpg",
+  "w": 1500,
+  "h": 998
+ },
+ "project-dining-room/interiordesign3-5-2025-008": {
+  "src": "/images/project-dining-room/interiordesign3-5-2025-008.jpg",
+  "w": 1500,
+  "h": 998
+ },
+ "project-dining-room/interiordesign3-5-2025-011": {
+  "src": "/images/project-dining-room/interiordesign3-5-2025-011.jpg",
+  "w": 1500,
+  "h": 998
+ },
+ "project-dining-room/interiordesign3-5-2025-116": {
+  "src": "/images/project-dining-room/interiordesign3-5-2025-116.jpg",
+  "w": 1500,
+  "h": 998
+ },
+ "project-sitting-room/interiordesign3-5-2025-128": {
+  "src": "/images/project-sitting-room/interiordesign3-5-2025-128.jpg",
+  "w": 1500,
+  "h": 998
+ },
+ "project-sitting-room/interiordesign3-5-2025-055": {
+  "src": "/images/project-sitting-room/interiordesign3-5-2025-055.jpg",
+  "w": 1500,
+  "h": 2255
+ },
+ "project-sitting-room/interiordesign3-5-2025-124": {
+  "src": "/images/project-sitting-room/interiordesign3-5-2025-124.jpg",
+  "w": 1500,
+  "h": 998
+ },
+ "project-sitting-room/interiordesign3-5-2025-057": {
+  "src": "/images/project-sitting-room/interiordesign3-5-2025-057.jpg",
+  "w": 1500,
+  "h": 998
+ },
+ "project-sitting-room/interiordesign3-5-2025-130": {
+  "src": "/images/project-sitting-room/interiordesign3-5-2025-130.jpg",
+  "w": 1500,
+  "h": 998
+ },
+ "project-sitting-room/interiordesign3-5-2025-056": {
+  "src": "/images/project-sitting-room/interiordesign3-5-2025-056.jpg",
+  "w": 1597,
+  "h": 2400
+ },
+ "project-sitting-room/interiordesign3-5-2025-007": {
+  "src": "/images/project-sitting-room/interiordesign3-5-2025-007.jpg",
+  "w": 2000,
+  "h": 1330
+ },
+ "project-sitting-room/interiordesign3-5-2025-127": {
+  "src": "/images/project-sitting-room/interiordesign3-5-2025-127.jpg",
+  "w": 2000,
+  "h": 1330
+ },
+ "project-hallway/interiordesign3-5-2025-026": {
+  "src": "/images/project-hallway/interiordesign3-5-2025-026.jpg",
+  "w": 1500,
+  "h": 998
+ },
+ "project-hallway/interiordesign3-5-2025-088": {
+  "src": "/images/project-hallway/interiordesign3-5-2025-088.jpg",
+  "w": 2000,
+  "h": 1330
+ },
+ "project-master-bedroom/interiordesign3-5-2025-077": {
+  "src": "/images/project-master-bedroom/interiordesign3-5-2025-077.jpg",
+  "w": 1400,
+  "h": 932
+ },
+ "project-master-bedroom/interiordesign3-5-2025-070": {
+  "src": "/images/project-master-bedroom/interiordesign3-5-2025-070.jpg",
+  "w": 2000,
+  "h": 1330
+ },
+ "project-master-bedroom/hdr-2395-hdr-edit": {
+  "src": "/images/project-master-bedroom/hdr-2395-hdr-edit.jpg",
+  "w": 2000,
+  "h": 1331
+ },
+ "project-master-bedroom/interiordesign3-5-2025-078": {
+  "src": "/images/project-master-bedroom/interiordesign3-5-2025-078.jpg",
+  "w": 2000,
+  "h": 1330
+ },
+ "project-kitchen/interiordesign3-5-2025-110": {
+  "src": "/images/project-kitchen/interiordesign3-5-2025-110.jpg",
+  "w": 1400,
+  "h": 931
+ },
+ "project-kitchen/interiordesign3-5-2025-109": {
+  "src": "/images/project-kitchen/interiordesign3-5-2025-109.jpg",
+  "w": 1400,
+  "h": 931
+ },
+ "project-kitchen/interiordesign3-5-2025-013": {
+  "src": "/images/project-kitchen/interiordesign3-5-2025-013.jpg",
+  "w": 1400,
+  "h": 931
+ },
+ "project-kitchen/interiordesign3-5-2025-108": {
+  "src": "/images/project-kitchen/interiordesign3-5-2025-108.jpg",
+  "w": 1500,
+  "h": 998
+ },
+ "project-kitchen/interiordesign3-5-2025-016": {
+  "src": "/images/project-kitchen/interiordesign3-5-2025-016.jpg",
+  "w": 1597,
+  "h": 2400
+ },
+ "project-kitchen/interiordesign3-5-2025-023": {
+  "src": "/images/project-kitchen/interiordesign3-5-2025-023.jpg",
+  "w": 1597,
+  "h": 2400
+ },
+ "project-kitchen/interiordesign3-5-2025-113": {
+  "src": "/images/project-kitchen/interiordesign3-5-2025-113.jpg",
+  "w": 2000,
+  "h": 1330
+ },
+ "project-kitchen/interiordesign3-5-2025-111": {
+  "src": "/images/project-kitchen/interiordesign3-5-2025-111.jpg",
+  "w": 2000,
+  "h": 1330
+ },
+ "brand/ts-logo-color-4x": {
+  "src": "/images/brand/ts-logo-color-4x.png",
+  "w": 1500,
+  "h": 848
+ },
+ "brand/logo-espresso": {
+  "src": "/images/brand/logo-espresso.png",
+  "w": 900,
+  "h": 509
+ },
+ "brand/logo-paper": {
+  "src": "/images/brand/logo-paper.png",
+  "w": 900,
+  "h": 509
+ }
+}
